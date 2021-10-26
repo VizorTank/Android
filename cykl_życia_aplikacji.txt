@@ -1,0 +1,28 @@
+Start aplikacji
+2021-10-26 14:54:01.854 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onCreate
+2021-10-26 14:54:02.174 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStart
+2021-10-26 14:54:02.174 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onResume
+Prze³¹czenie siê na inn¹ aplikacjê
+2021-10-26 14:54:13.994 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onPause
+2021-10-26 14:54:14.024 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStop
+Prze³¹czenie siê zpowrotem na aplikacjê
+2021-10-26 14:54:18.484 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStart
+2021-10-26 14:54:18.484 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onResume
+Wy³¹czenie apikacji
+2021-10-26 14:55:49.354 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onPause
+2021-10-26 14:55:50.104 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStop
+2021-10-26 14:55:50.104 31001-31001/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onDestroy
+Obrót aplikacji - pytanie resetuje siê do perwszego
+2021-10-26 14:59:16.224 580-580/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onPause
+2021-10-26 14:59:16.224 580-580/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStop
+2021-10-26 14:59:16.224 580-580/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onDestroy
+2021-10-26 14:59:16.274 580-580/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onCreate
+2021-10-26 14:59:16.314 580-580/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStart
+2021-10-26 14:59:16.314 580-580/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onResume
+Obrót z zapisem stanu
+2021-10-26 15:17:48.804 2722-2722/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda: onSaveInstanceState
+2021-10-26 15:17:48.814 2722-2722/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStop
+2021-10-26 15:17:48.864 2722-2722/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onDestroy
+2021-10-26 15:17:48.924 2722-2722/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onCreate
+2021-10-26 15:17:48.964 2722-2722/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onStart
+2021-10-26 15:17:48.964 2722-2722/com.example.android1 D/Main Activity: Wywo³ana zosta³a metoda cyklu ¿ycia: onResume

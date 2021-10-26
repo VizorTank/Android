@@ -13,4 +13,9 @@
 
     <string name="correct_answer">Zgadza się</string>
     <string name="incorrect_answer">Nie zgadza się</string>
+
+    <string name="button_help">Podpowiedź</string>
+    <string name="prompt_help_text">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="prompt_button_help">Pokaż odpowiedź</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 </resources>
