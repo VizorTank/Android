@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
         Log.d(QUIZ_TAG, "Wywołana została metoda: onActivityResult " + REQUEST_CODE_PROMPT);
         if (resultCode != RESULT_OK) { return; }
-        if (resultCode == -1)
+        if (requestCode == REQUEST_CODE_PROMPT)
         {
             if (data == null) { return; }
             answerWasShown = data.getBooleanExtra(PromptActivity.KEY_EXTRA_ANSWER_SHOWN, false);

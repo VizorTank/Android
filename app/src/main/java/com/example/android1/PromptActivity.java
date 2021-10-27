@@ -36,8 +36,6 @@ public class PromptActivity extends AppCompatActivity {
                 setAnswerShowResult(true);
             }
         });
-        setAnswerShowResult(true);
-
     }
 
     private void setAnswerShowResult(boolean answerWasShown)
